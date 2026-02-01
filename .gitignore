@@ -1,8 +1,20 @@
-*
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]serSettings/
 
-!Assets/
-!Assets/Scripts/
-!Assets/Scripts/**
+.vs/
+.idea/
 
-!.gitignore
-!README.md
+*.csproj
+*.sln
+*.user
+*.unityproj
+*.pidb
+*.booproj
+
+sysinfo.txt
+.DS_Store
